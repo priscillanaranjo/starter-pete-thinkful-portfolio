@@ -76,3 +76,28 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-text-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-column h3{
+  text-align: center;
+ 
+}
+
+.other-text-section {
+  text-align: left;
+}
+
+.other-text-section ul {
+  text-align: left;
+}
